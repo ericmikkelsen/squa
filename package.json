@@ -1,0 +1,25 @@
+{
+  "name": "squa",
+  "version": "1.0.0",
+  "description": "A site for the D&D squa campaign setting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "hugo server --bind 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmikkelsen/squa.git"
+  },
+  "keywords": [
+    "D&D",
+    "Hugo",
+    "Squa"
+  ],
+  "author": "Eric Mikkelsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmikkelsen/squa/issues"
+  },
+  "homepage": "https://github.com/ericmikkelsen/squa#readme"
+}
